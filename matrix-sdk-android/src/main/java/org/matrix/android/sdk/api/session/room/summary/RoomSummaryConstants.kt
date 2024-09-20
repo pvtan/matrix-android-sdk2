@@ -31,8 +31,8 @@ object RoomSummaryConstants {
             EventType.CALL_REJECT,
             EventType.CALL_ANSWER,
             EventType.ENCRYPTED,
-            EventType.STICKER,
-            EventType.REACTION
+            EventType.STICKER
+//            EventType.REACTION
     ) +
             EventType.POLL_START.values +
             EventType.POLL_END.values +
